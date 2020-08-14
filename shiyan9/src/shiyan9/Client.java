@@ -19,6 +19,7 @@ public class Client
 			r.revise();//逆转方法根据当前职业级别降一级，等级不变
 			r.attack();
 			r.cure();
+			System.out.println("adasd");
 		}
 
 	
